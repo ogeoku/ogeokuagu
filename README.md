@@ -39,8 +39,6 @@
 <hr>
 
 
-### Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ogeoku&theme=radical)](https://git.io/streak-stats)
 
 <hr>
